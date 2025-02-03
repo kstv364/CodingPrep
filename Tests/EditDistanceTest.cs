@@ -1,9 +1,6 @@
-using System;
-using Xunit;
-
 namespace Solutions.Tests
 {
-  public class EditDistanceTest
+    public class EditDistanceTest
   {
     [Theory]
     [InlineData("horse", "ros", 3)]
