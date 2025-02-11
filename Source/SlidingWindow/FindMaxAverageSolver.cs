@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Security;
-using System.Runtime.InteropServices.Marshalling;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Solutions.SlidingWindow
+﻿namespace Solutions.SlidingWindow
 {
     internal class FindMaxAverageSolver
     {
